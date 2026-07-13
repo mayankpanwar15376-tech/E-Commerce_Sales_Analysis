@@ -37,15 +37,15 @@ Date fields were parsed and decomposed to enable time-based analysis:
 
 **Monthly sales show a clear seasonal ramp-up toward year-end**, with November and December consistently the strongest months — a classic holiday-shopping pattern.
 
-![Monthly Sales Analysis](images/monthly_sales.png)
+![Monthly Sales Analysis](monthly_sales.png)
 
 **Category breakdown** shows Technology and Office Supplies leading sales share:
 
-![Sales by Category](images/sales_by_category.png)
+![Sales by Category](sales_by_category.png)
 
 **Phones and Chairs are the top-selling sub-categories**, while several sub-categories lag well behind:
 
-![Sales by Sub-Category](images/sales_by_subcategory.png)
+![Sales by Sub-Category](sales_by_subcategory.png)
 
 ---
 
@@ -53,11 +53,11 @@ Date fields were parsed and decomposed to enable time-based analysis:
 
 Profit doesn't always track sales — some high-selling sub-categories are actually **losing money**:
 
-![Monthly Profit Analysis](images/monthly_profit.png)
+![Monthly Profit Analysis](monthly_profit.png)
 
 **Tables is the single most unprofitable sub-category** in the entire dataset (–$17,725 total loss), despite reasonable sales volume — a strong signal for pricing or discount-strategy review.
 
-![Profit by Sub-Category](images/profit_by_subcategory.png)
+![Profit by Sub-Category](profit_by_subcategory.png)
 
 ---
 
@@ -71,7 +71,7 @@ Profit doesn't always track sales — some high-selling sub-categories are actua
 
 **Home Office has the most efficient sales-to-profit ratio**, converting revenue into profit more effectively than the larger Consumer segment — despite having the smallest sales volume overall.
 
-![Sales and Profit by Segment](images/sales_profit_by_segment.png)
+![Sales and Profit by Segment](sales_profit_by_segment.png)
 
 ---
 
