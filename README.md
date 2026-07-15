@@ -111,8 +111,7 @@ jupyter notebook E-commerce_project.ipynb
 
 ```
 ├── E-commerce_project.ipynb   # Full analysis notebook
-├── Sample_-_Superstore.csv    # Dataset
-├── images/                    # Chart exports used in this README
+├── Sample_-_Superstore.csv    # Dataset                 # Chart exports used in this README
 └── README.md
 ```
 
